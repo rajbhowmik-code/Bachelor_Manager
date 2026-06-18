@@ -10,3 +10,4 @@ focus study mode disable all call notification exceptions can be added
 reminder for work
 important dates reminder
 shut off screen lock it at sleep time it won't open unless you give special code
+nit
